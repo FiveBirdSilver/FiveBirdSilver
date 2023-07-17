@@ -17,11 +17,3 @@
 <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
-<div>
-  <a href="s">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiveBirdSilver&exclude_repo=FiveBirdSilver.github.io&layout=compact&theme=tokyonight" />
-	</a>
-	<a href="s">
-	  <img src="https://github-readme-stats.vercel.app/api?username=FiveBirdSilver&theme=tokyonight&show_icons=true" width="42%" />
-	</a>
-</div>
