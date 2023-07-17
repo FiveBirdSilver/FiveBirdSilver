@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeEun'sGitHub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeEun's%20GitHub%20&fontSize=90)
 
 <!--
 **FiveBirdSilver/FiveBirdSilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
