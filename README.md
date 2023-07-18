@@ -19,6 +19,6 @@
 </div>
 <div>
 	<h2>🌻ABOUT ME🍀</h2>
-	<a href="https://www.notion.so/fivebirdsilver/223f88a3c47849f3ae68969fca3aac05?v=59f7d481d21e47a885cbaee55d1b9073&pvs=4]" target="_blank">
+	<a href="https://fivebirdsilver.notion.site/223f88a3c47849f3ae68969fca3aac05" target="_blank">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
