@@ -21,4 +21,6 @@
 	<h2>🌻ABOUT ME🍀</h2>
 	<a href="https://fivebirdsilver.notion.site/223f88a3c47849f3ae68969fca3aac05" target="_blank">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+	<a href="https://velog.io/@fivebirdsilver" target="_blank">
+	<img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=vlelog&logoColor=white"/></a>
 </div>
